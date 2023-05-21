@@ -1,0 +1,11 @@
+1-First open the terminal at server folder and run below commands
+
+2-Python util.py
+
+Then 
+3-Python server.py
+
+4-Copy the website link and paste in postman workspace with get method for http://127.0.0.1:5000/get_location_names 
+
+5- then in another workspace select post method and enter the attributes and its values below then click on send to get the predicted value. http://127.0.0.1:5000/predict_home_price
+
